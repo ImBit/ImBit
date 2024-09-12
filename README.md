@@ -1,5 +1,11 @@
-Hey hey👋, **I’m Bit**, a guy who develops things!
-README to be continued :)
+<h1 align="center">👋 Hey, I'm Bit</h1>
+An incredibly awesome developer, currently student studying CS at university.
+
+<h2>🌍 Current Projects:</h1>
+<ul>
+  <li>Lead developer for <a href="https://biomebattle.xyz/">BiomeBattle</a></li>
+  <li>Finishing this README...</li>
+</ul>
 
 <!---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imbit&show_icons=true&theme=tokyonight)
