@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Bit</h1>
-An incredibly awesome developer, currently student studying CS at university.
+An incredibly awesome developer, currently student studying a Masters in Computer Science at university.
 
 <h2>🌍 Current Projects:</h1>
 <ul>
